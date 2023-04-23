@@ -22,17 +22,7 @@ body{
 h2{
     font-size: 100%;
 }
-h3{
-    font-size: 50%;
-    font-style:inherit;
-    
-}
-h4{
-    font-size: 50%
-}
-h5{
-    font-size: 50%;
-}
+
 h6{
     font-size: 200%;
 }
@@ -51,6 +41,7 @@ h6{
 }
 .Search button {
     position: relative; bottom: -40px; left: -115px;
+    cursor: pointer;
 }
 .Search input {
     position: relative; bottom: -20px ;
@@ -58,4 +49,7 @@ h6{
 h7{
     font-size: 150% ;
     position: relative; right: -150px ;
+}
+p{
+ font-size: 50%;
 }
